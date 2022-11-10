@@ -1,8 +1,5 @@
 // Chapter 5, Programming Challenge 20: Random Number Guessing Game
 // 
-// Objective:
-// Name:
-// Date: 
 //
 
 #include <iostream>
